@@ -50,4 +50,4 @@ O portfólio será atualizado conforme novos projetos e competências forem dese
 
 🔗 **LinkedIn:** [Victor Hugo](https://www.linkedin.com/in/victor-hugo-de-oliveira-teles/)
 
-🐙 **GitHub:** [oBola-77](https://github.com/oBola-77)
+🐙 **GitHub:** [oBola-77](https://github.com/Victor-Hugo77)
