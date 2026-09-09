@@ -44,10 +44,10 @@ O portfólio será atualizado conforme novos projetos e competências forem dese
 
 ## 🌐 Acesse o portfólio
 
-🔗 **[Acessar meu portfólio]: ([Portfólio](https://meu-portfolio-lac-gamma.vercel.app/)**
+🔗 **Acessar meu portfólio:** [Portfólio](https://meu-portfolio-lac-gamma.vercel.app/)
 
 ## 📫 Contato
 
-🔗 **LinkedIn:** Victor Hugo: ([https://www.linkedin.com/in/victor-hugo-44a4362ab](https://www.linkedin.com/in/victor-hugo-de-oliveira-teles/))
+🔗 **LinkedIn:** [Victor Hugo](https://www.linkedin.com/in/victor-hugo-de-oliveira-teles/)
 
 🐙 **GitHub:** [oBola-77](https://github.com/oBola-77)
