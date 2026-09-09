@@ -44,7 +44,7 @@ O portfólio será atualizado conforme novos projetos e competências forem dese
 
 ## 🌐 Acesse o portfólio
 
-🔗 **[Acessar meu portfólio]([#](https://meu-portfolio-lac-gamma.vercel.app/)**
+🔗 **[Acessar meu portfólio]: ([Portfólio](https://meu-portfolio-lac-gamma.vercel.app/)**
 
 ## 📫 Contato
 
